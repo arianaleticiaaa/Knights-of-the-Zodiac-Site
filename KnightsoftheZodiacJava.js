@@ -1,5 +1,0 @@
-//data submit
-
-function msg () {
-    
-}
